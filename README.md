@@ -1,2 +1,2 @@
-## Offical Implementation of MixFusion_Clinical_Diagnosis - Pytorch
+## Offical Implementation of MixFusion of Clinical Diagnosis Prediction - Pytorch
 
