@@ -5,23 +5,19 @@ from utils.utils import Evaluate
 from utils.focal_loss import FocalLoss
 
 import torch
-import torch.nn as nn
-import torch.nn.functional as F
 from torch.utils.data import DataLoader
-# from tensorboardX import SummaryWriter
-import torchvision.transforms as transforms
 import numpy as np
 import time
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-cls = 24
+cls = 28
 feature = 0
 batch_size = 20
 num_works = 8
 lr_rate = 1e-5
 weight_decay = 1e-5
-epochs = 15
+epochs = 10
 report_step = 800
 
 log_val = 'log_val.txt'
