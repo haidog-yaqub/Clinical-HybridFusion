@@ -1,0 +1,48 @@
+Wed Jan 18 07:36:25 2023
+Epoch: [1][15]    Batch: [800][2018]    Loss: 1.208973
+Wed Jan 18 07:46:39 2023
+Epoch: [1][15]    Batch: [1600][2018]    Loss: 0.625085
+Wed Jan 18 08:05:06 2023
+Epoch: [2][15]    Batch: [800][2018]    Loss: 0.806642
+Wed Jan 18 08:15:18 2023
+Epoch: [2][15]    Batch: [1600][2018]    Loss: 0.488877
+Wed Jan 18 08:33:46 2023
+Epoch: [3][15]    Batch: [800][2018]    Loss: 0.708191
+Wed Jan 18 08:43:52 2023
+Epoch: [3][15]    Batch: [1600][2018]    Loss: 0.441820
+Wed Jan 18 09:02:07 2023
+Epoch: [4][15]    Batch: [800][2018]    Loss: 0.636038
+Wed Jan 18 09:12:10 2023
+Epoch: [4][15]    Batch: [1600][2018]    Loss: 0.407661
+Wed Jan 18 09:30:24 2023
+Epoch: [5][15]    Batch: [800][2018]    Loss: 0.591164
+Wed Jan 18 09:40:26 2023
+Epoch: [5][15]    Batch: [1600][2018]    Loss: 0.370233
+Wed Jan 18 09:58:41 2023
+Epoch: [6][15]    Batch: [800][2018]    Loss: 0.540191
+Wed Jan 18 10:08:44 2023
+Epoch: [6][15]    Batch: [1600][2018]    Loss: 0.346642
+Wed Jan 18 10:26:58 2023
+Epoch: [7][15]    Batch: [800][2018]    Loss: 0.493025
+Wed Jan 18 10:37:01 2023
+Epoch: [7][15]    Batch: [1600][2018]    Loss: 0.319389
+Wed Jan 18 10:55:15 2023
+Epoch: [8][15]    Batch: [800][2018]    Loss: 0.450101
+Wed Jan 18 11:05:18 2023
+Epoch: [8][15]    Batch: [1600][2018]    Loss: 0.289892
+Wed Jan 18 11:23:32 2023
+Epoch: [9][15]    Batch: [800][2018]    Loss: 0.416831
+Wed Jan 18 11:33:35 2023
+Epoch: [9][15]    Batch: [1600][2018]    Loss: 0.262660
+Wed Jan 18 11:51:51 2023
+Epoch: [10][15]    Batch: [800][2018]    Loss: 0.373019
+Wed Jan 18 12:01:54 2023
+Epoch: [10][15]    Batch: [1600][2018]    Loss: 0.241019
+Wed Jan 18 12:20:09 2023
+Epoch: [11][15]    Batch: [800][2018]    Loss: 0.344335
+Wed Jan 18 12:30:13 2023
+Epoch: [11][15]    Batch: [1600][2018]    Loss: 0.219316
+Wed Jan 18 12:48:27 2023
+Epoch: [12][15]    Batch: [800][2018]    Loss: 0.308784
+Wed Jan 18 12:58:31 2023
+Epoch: [12][15]    Batch: [1600][2018]    Loss: 0.195617

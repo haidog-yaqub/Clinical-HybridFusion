@@ -1,0 +1,13 @@
+
+Epoch: 1  Acc: 70.43 %  Top2 Acc: 85.38 %  Top3 Acc: 91.27 %  F1 Global: 70.43 %  F1 Unweighted: 71.54 %  F1 Weighted: 71.57 %
+Epoch: 2  Acc: 72.38 %  Top2 Acc: 86.97 %  Top3 Acc: 92.68 %  F1 Global: 72.38 %  F1 Unweighted: 73.47 %  F1 Weighted: 73.51 %
+Epoch: 3  Acc: 73.26 %  Top2 Acc: 87.41 %  Top3 Acc: 92.96 %  F1 Global: 73.26 %  F1 Unweighted: 74.64 %  F1 Weighted: 74.03 %
+Epoch: 4  Acc: 73.77 %  Top2 Acc: 87.83 %  Top3 Acc: 93.41 %  F1 Global: 73.77 %  F1 Unweighted: 75.41 %  F1 Weighted: 74.24 %
+Epoch: 5  Acc: 74.31 %  Top2 Acc: 88.09 %  Top3 Acc: 93.30 %  F1 Global: 74.31 %  F1 Unweighted: 76.07 %  F1 Weighted: 74.73 %
+Epoch: 6  Acc: 74.41 %  Top2 Acc: 88.11 %  Top3 Acc: 93.35 %  F1 Global: 74.41 %  F1 Unweighted: 76.19 %  F1 Weighted: 74.85 %
+Epoch: 7  Acc: 74.48 %  Top2 Acc: 88.02 %  Top3 Acc: 93.39 %  F1 Global: 74.48 %  F1 Unweighted: 76.35 %  F1 Weighted: 74.82 %
+Epoch: 8  Acc: 74.86 %  Top2 Acc: 88.18 %  Top3 Acc: 93.43 %  F1 Global: 74.86 %  F1 Unweighted: 76.18 %  F1 Weighted: 75.62 %
+Epoch: 9  Acc: 74.57 %  Top2 Acc: 87.95 %  Top3 Acc: 93.32 %  F1 Global: 74.57 %  F1 Unweighted: 76.18 %  F1 Weighted: 75.01 %
+Epoch: 10  Acc: 74.70 %  Top2 Acc: 88.13 %  Top3 Acc: 93.43 %  F1 Global: 74.70 %  F1 Unweighted: 76.33 %  F1 Weighted: 75.07 %
+Epoch: 11  Acc: 74.61 %  Top2 Acc: 87.91 %  Top3 Acc: 93.11 %  F1 Global: 74.61 %  F1 Unweighted: 76.20 %  F1 Weighted: 75.10 %
+Epoch: 12  Acc: 74.43 %  Top2 Acc: 87.88 %  Top3 Acc: 92.99 %  F1 Global: 74.43 %  F1 Unweighted: 76.16 %  F1 Weighted: 74.78 %
