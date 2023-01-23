@@ -1,4 +1,4 @@
-from model.bert import BERT_multi
+from model import Hybrid_Fusion
 from dataset.diag import Diag
 from config import get_config
 from utils.utils import Evaluate
@@ -32,8 +32,8 @@ if __name__ == "__main__":
     options_name, bert_features, activation_func = get_config(language_model)
     bert_features = bert_features[0]
 
-    model = BERT_multi(options_name, bert_features, activation_func,
-                       hidden=768, others_ratio=4, input=feature, output=cls, if_others=False)
+    model = Hybrid_Fusion(options_name, bert_features, activation_func,
+                          hidden=768, others_ratio=4, input=feature, output=cls, if_others=False)
     model = model.to(device)
 
     # loss_func = nn.CrossEntropyLoss()
