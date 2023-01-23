@@ -1,2 +1,2 @@
-## Offical Implementation of MixFusion of Clinical Diagnosis Prediction
+## Offical Implementation of Hybrid Fusion of Clinical Diagnosis Prediction
 
