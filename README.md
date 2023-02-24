@@ -1,1 +1,1 @@
-## Offical Implementation of Clinical Hybrid Fusion
+## The Pytorch Implementation of Clinical Hybrid Fusion
